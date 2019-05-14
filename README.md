@@ -1,4 +1,5 @@
 # Library
+Final project for Intorduction to Software Systems class. 
 This system is designed to implement an online registrar for the library. Using CSV files to store and read information. Simulates 
 the actions of a regular library. e.g. Checking out books, returning, outstanding fees and charges, etc. Uses a command line tool to 
 navigate 
@@ -8,6 +9,7 @@ navigate
 - Parsing CSV files 
 - OOP concepts: inheritance, polymorphism 
 - OOP design pattern
+- JUnit testing
 
 
  
