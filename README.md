@@ -1,7 +1,7 @@
 # Library
 Final project for CSCI C-212, Introduction to Software Systems class. 
 This system is designed to implement an online registrar for the library. Using CSV files to store and read information. Simulates 
-the actions of a regular library. e.g. Checking out books, returning, outstanding fees and charges, etc. Uses a command line tool to 
+the actions of a regular library. e.g. checking out books, returning books, outstanding fees and charges, etc. Uses a command line tool to 
 navigate 
 
 # What I learned 
